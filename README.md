@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+This is etefa 
+- my first repository 
+-it's a little bit impossible but I did it 
